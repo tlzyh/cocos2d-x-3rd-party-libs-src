@@ -1,6 +1,6 @@
 # PNG
 PNG_VERSION := 1.6.2
-PNG_URL := $(SF)/libpng/libpng16/$(PNG_VERSION)/libpng-$(PNG_VERSION).tar.xz
+PNG_URL := https://sourceforge.net/projects/libpng/files/libpng16/older-releases/$(PNG_VERSION)/libpng-$(PNG_VERSION).tar.xz
 
 
 $(TARBALLS)/libpng-$(PNG_VERSION).tar.xz:
